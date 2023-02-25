@@ -1,0 +1,33 @@
+main span{
+      color: blue;
+      background-color: yellow;
+      font-weight: bold;
+    }
+footer span{
+
+      color: red;
+}
+
+ nav ul li span{
+      color: blue;
+}
+
+
+#degreeProgramCD{
+      border-top-left-radius: 50px;
+      border-top-right-radius: 50px;      
+}
+#computerCD{
+       border-bottom-left-radius: 50px;
+      border-bottom-right-radius: 50px;      
+}
+img{
+
+      width: 50%;
+      height: auto;
+}
+
+.minorpr{
+      border: 10px solid green;
+      padding: 10px;
+}
